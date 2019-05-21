@@ -10,10 +10,14 @@ https://www.npmjs.com/package/react-browser-notifications
 
 * I used these links for my notification system project with Windows powershell
 and ATOM IDE.
-* As you know, you can see on package.json what I installed. Because I installed so
-many things with npm and then I uninstalled unnecessary things so I cant remember the
-last version. :(
-NOTE: I installed react-bootstrap but its unnecessary. I've never used it.
+
+*I used npm;
+-react
+-babel (has JSX)
+-webpack(has also css,minify,html,bundle)
+-materialize
+
+So I dowloaded these packages for an optimized notification system. 
 * Its not perfect sample but you can use like prototype. I hope it will help you!
 				
 					-Yours affectionately!
